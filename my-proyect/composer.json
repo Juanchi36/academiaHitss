@@ -1,0 +1,14 @@
+{
+    "name": "jmgonzalez/my-proyect",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "^2.16",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MixPlay\\Math\\": "src\\"
+        }
+    }
+}
