@@ -1,0 +1,16 @@
+{
+    "name": "Juanma/Subscription",
+    "description": "Primera practica de composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juanchi36",
+            "email": "juanmartingon@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {"psr-4": {
+        "Juanma\\Subscription\\": "src\\"
+    }}
+}
